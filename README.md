@@ -1,1 +1,2 @@
 # Health-Tracker
+Health Tracker is a user-friendly app that helps individuals manage their fitness and nutrition goals. Users can track their daily workout routine, body measurements, and automatically calculate their personalized daily calorie intake based on age, gender, weight, height, and activity level. The app also provides a 7-day meal plan sample tailored to each user's calorie needs, making it easier to stay on track with health goals through recommended meals.
